@@ -16,4 +16,3 @@ function getBase64FromImageUrl(url) {
     img.src = url;
     return img.src;
 }
-$('#img').attr('src', getBase64FromImageUrl('https://www.gravatar.com/avatar/d50c83cc0c6523b4d3f60852'));
