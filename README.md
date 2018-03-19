@@ -1,1 +1,1 @@
-# my-javascript-utilities
+# javascript utilities
